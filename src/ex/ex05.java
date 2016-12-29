@@ -20,7 +20,6 @@ public class ex05 {
 			for (int j = 0; j < 10; j++) {
 				data[i][j] = rnd.nextInt(10);
 				System.out.print(data[i][j]);
-
 			}
 			System.out.println();
 		}
